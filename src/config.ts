@@ -1,5 +1,5 @@
 export const SITE = {
-  title: "Astro Design System",
+  title: "Ewan's Design System",
   description: "Astro theme to build your design system fast.",
   defaultLanguage: "en_US",
   twitter: "@jordienr",
